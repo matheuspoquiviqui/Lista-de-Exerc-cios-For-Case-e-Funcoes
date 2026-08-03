@@ -1,4 +1,4 @@
-# 🐍 Lista de Exercícios — Estruturas de Repetição e Funções em Python
+# 🐍 Lista de 10 Exercícios — Estruturas de Repetição e Funções em Python
 
 Este repositório contém uma lista de 10 exercícios desenvolvidos em Python com foco em estruturas de repetição (`for` e `while`), tomada de decisão (`if`, `elif`, `else`), estrutura `match case` e criação de funções.
 
