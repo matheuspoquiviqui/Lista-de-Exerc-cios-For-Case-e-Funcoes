@@ -8,81 +8,18 @@ Praticar conceitos fundamentais da programação em Python, desenvolvendo habili
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```bash
-exercicios/
-├── exer01.py
-├── exer02.py
-├── ...
-└── exer10.py
-```
-
-Cada arquivo representa uma atividade individual.
-
----
-
-## ▶️ Como executar os exercícios
-
-1. Certifique-se de ter o Python instalado em seu computador.
-2. Abra o terminal na pasta do projeto.
-3. Execute o exercício desejado:
-
-```bash
-python exercicio01.py
-```
-
----
-
 ## 📋 Lista de Exercícios
 
-### 🟢 Estruturas de Repetição com for
-
-1. Contador de 1 até 10
-2. Contador regressivo
-3. Somando números
-4. Tabuada
-
-### 🟡 Estruturas de Repetição com while
-
-5. Somar números até parar
-6. Adivinhar número
-7. Menu simples
-
-### 🔵 Estruturas de Decisão Avançadas
-
-8. Calculadora utilizando `match case`
-
-### 🟣 Funções
-
-9. Criando uma função de soma
-10. Função para gerar tabuada
-
----
-
-## 🧠 Conteúdos abordados
-
-* Estruturas de repetição (`for` e `while`)
-* Estruturas condicionais (`if`, `elif` e `else`)
-* Estrutura `match case`
-* Acumuladores e contadores
-* Entrada e saída de dados
-* Criação e utilização de funções
-* Retorno de valores com `return`
-* Lógica de programação
-
----
-
-## 📚 Conceitos praticados
-
-Durante os exercícios são explorados conceitos importantes como:
-
-* Laços de repetição controlados e condicionais
-* Interação com o usuário por meio do `input()`
-* Operações matemáticas básicas
-* Menus interativos
-* Modularização de código
-* Reutilização de funções
+1. Crie um programa que mostre os números de 1 até 10.
+2. Mostre números de 10 até 1.
+3. Peça 5 números ao usuário e mostre a soma.
+4. Peça um número e mostre a tabuada de 1 a 10.
+5. Peça números ao usuário e mostre a soma total. O programa só para quando o usuário digitar 0.
+6. Defina o número e peça para o usário adivinhar o número.
+7. Crie um menu: 1 - Somar; 2 - Subtrair e 3 - Sair.
+8. Faça uma calculadora usando match case.
+9. Crie uma função chamada somar.
+10. Crie uma função que mostre a tabuada.
 
 ---
 
