@@ -10,7 +10,7 @@ Praticar conceitos fundamentais da programação em Python, desenvolvendo habili
 
 ## 📋 Lista de Exercícios
 
-1. Crie um programa que mostre os números de 1 até 10.
+1. [Crie um programa que mostre os números de 1 até 10.](/atividades/exer01.py)
 2. Mostre números de 10 até 1.
 3. Peça 5 números ao usuário e mostre a soma.
 4. Peça um número e mostre a tabuada de 1 a 10.
