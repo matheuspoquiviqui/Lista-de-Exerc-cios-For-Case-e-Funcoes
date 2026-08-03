@@ -11,15 +11,15 @@ Praticar conceitos fundamentais da programação em Python, desenvolvendo habili
 ## 📋 Lista de Exercícios
 
 1. [Crie um programa que mostre os números de 1 até 10.](/atividades/exer01.py)
-2. Mostre números de 10 até 1.
-3. Peça 5 números ao usuário e mostre a soma.
-4. Peça um número e mostre a tabuada de 1 a 10.
-5. Peça números ao usuário e mostre a soma total. O programa só para quando o usuário digitar 0.
-6. Defina o número e peça para o usário adivinhar o número.
-7. Crie um menu: 1 - Somar; 2 - Subtrair e 3 - Sair.
-8. Faça uma calculadora usando match case.
-9. Crie uma função chamada somar.
-10. Crie uma função que mostre a tabuada.
+2. [Mostre números de 10 até 1.](/atividades/exer02.py)
+3. [Peça 5 números ao usuário e mostre a soma.](/atividades/exer03.py)
+4. [Peça um número e mostre a tabuada de 1 a 10.](/atividades/exer04.py)
+5. [Peça números ao usuário e mostre a soma total. O programa só para quando o usuário digitar 0.](/atividades/exer05.py)
+6. [Defina o número e peça para o usário adivinhar o número.](/atividades/exer06.py)
+7. [Crie um menu: 1 - Somar; 2 - Subtrair e 3 - Sair.](/atividades/exer07.py)
+8. [Faça uma calculadora usando match case.](/atividades/exer08.py)
+9. [Crie uma função chamada somar.](/atividades/exer09.py)
+10. [Crie uma função que mostre a tabuada.](/atividades/exer10.py)
 
 ---
 
